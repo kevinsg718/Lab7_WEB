@@ -158,7 +158,7 @@ export default class App extends React.Component{
 		}
 		return (
       <div>
-        <h1 style = {textos}>EL LABERINTO DE SANTIAGO</h1>
+        <h1 style = {textos}>LABERINTO</h1>
         <h2 style = {textos}>Consigue la triforce!!</h2>
 
 
